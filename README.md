@@ -1,12 +1,46 @@
-# Renewable Energy Analysis and Prediction
+🌱 Renewable Energy Analysis and Prediction
 
-Google Colab notebook + live Streamlit dashboard. Dataset: renewable_energy.csv (1960–2015, 142 location codes).
+📌 Project Overview
 
-## Run in Google Colab
-Upload `Renewable_Energy_Colab.ipynb` to Colab and run it. When prompted, upload `renewable_energy.csv`.
+This project analyzes historical renewable energy data using Python, machine learning, and interactive data visualization.
 
-## Deploy to Streamlit Community Cloud
-Upload all four files to a GitHub repository. Visit https://share.streamlit.io and choose the repo, branch `main`, and main file `app.py`. The bundled CSV loads automatically.
+The project explores renewable energy trends across different countries and years and uses Random Forest Regression for prediction.
 
-## Methods
-EDA and Random Forest regression. Next-year target is estimated from the preceding 3 consecutive years, with chronological train/test split. KTOE and percentage share are modeled separately. Source data ends in 2015; location codes can include regional aggregates.
+🌐 Live Interactive Dashboard
+
+🚀 [CLICK HERE TO OPEN THE DASHBOARD](https://padv-activity-2-vin-5dxpjcijwq9ix6yb4qzida.streamlit.app/)
+
+The dashboard includes:
+
+* Renewable energy trends and comparisons
+* Interactive country and year filters
+* Data visualizations and insights
+* Machine learning predictions
+* Model performance evaluation
+
+🛠️ Technologies Used
+
+* Python
+* Google Colab
+* Pandas and NumPy
+* Scikit-learn
+* Plotly
+* Streamlit
+* GitHub
+
+🤖 Machine Learning Model
+
+Algorithm: Random Forest Regression
+
+Evaluation Metrics: MAE, RMSE and R² Score.
+
+📂 Project Files
+
+* Renewable_Energy_Colab.ipynb — Google Colab notebook
+* app.py — Streamlit dashboard application
+* renewable_energy.csv — Dataset
+* requirements.txt — Required Python libraries
+
+📊 Conclusion
+
+This project demonstrates how data analytics, machine learning and interactive dashboards can help understand historical renewable energy patterns and support data-driven analysis.
