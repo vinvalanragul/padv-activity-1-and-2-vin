@@ -8,7 +8,7 @@ The project explores renewable energy trends across different countries and year
 
 🌐 Live Interactive Dashboard
 
-🚀 [CLICK HERE TO OPEN THE DASHBOARD](https://padv-activity-1-vin-5dxpjcijwq9ix6yb4qzida.streamlit.app/)
+🚀 [CLICK HERE TO OPEN THE DASHBOARD](https://padv-activity-2-vin-5dxpjcijwq9ix6yb4qzida.streamlit.app/)
 
 The dashboard includes:
 
